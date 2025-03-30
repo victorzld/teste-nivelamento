@@ -19,7 +19,7 @@ Para utilizar a aplicação localmente, é necessário ter instalado em sua máq
 
 - Uma IDE compatível com Python e Vue.js (Visual Studio Code)
 
-### Clolar:
+### Clonar:
 
 Para clocar este projeto na sua máquina local:
 
