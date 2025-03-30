@@ -24,7 +24,7 @@ Para utilizar a aplicação localmente, é necessário ter instalado em sua máq
 Para clocar este projeto na sua máquina local:
 
 ```bash
-    git clone https://github.com/victorzld/teste-nivelamento
+    git clone https://github.com/victorzld/teste-nivelamento.git
 ```
 
 ## Configurar ambiente
