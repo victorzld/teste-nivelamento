@@ -61,8 +61,7 @@ public class TransformacaoDeDados {
             stripper.setSortByPosition(true);
             String text = stripper.getText(document);
 
-            // Simulação da extração da tabela, por linhas e colunas
-            // Ajuste conforme o formato real da tabela no PDF
+            
             String[] lines = text.split("\n");
             for (String line : lines) {
                 String[] columns = line.split("\\s+");
